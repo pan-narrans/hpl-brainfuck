@@ -26,18 +26,23 @@ This language haves 7 instructions:
 
 👊 : Display the current character represented by the ASCII code defined by the current position.
 
-### Notes:
+### Notes
+
 - As memory cells are bytes, from 0 to 255 value, if you decrease 0 you'll get  255, if you increment 255 you'll get 0.
-- Loops of 🤜 and 🤛 can be nested. 
+- Loops of 🤜 and 🤛 can be nested.
 
 ## Tests
+
 The hand shows you two small programs and their outputs:
 
 ### This program display "Hello"
+
 👇🤜👇👇👇👇👇👇👇👉👆👈🤛👉👇👊👇🤜👇👉👆👆👆👆👆👈🤛👉👆👆👊👆👆👆👆👆👆👆👊👊👆👆👆👊
 
 ### This program (with nested loops) display "Hello World!"
+
 👉👆👆👆👆👆👆👆👆🤜👇👈👆👆👆👆👆👆👆👆👆👉🤛👈👊👉👉👆👉👇🤜👆🤛👆👆👉👆👆👉👆👆👆🤜👉🤜👇👉👆👆👆👈👈👆👆👆👉🤛👈👈🤛👉👇👇👇👇👇👊👉👇👉👆👆👆👊👊👆👆👆👊👉👇👊👈👈👆🤜👉🤜👆👉👆🤛👉👉🤛👈👇👇👇👇👇👇👇👇👇👇👇👇👇👇👊👉👉👊👆👆👆👊👇👇👇👇👇👇👊👇👇👇👇👇👇👇👇👊👉👆👊👉👆👊
 
 ## Challenge
+
 The file "input.hand" is the code of the program
